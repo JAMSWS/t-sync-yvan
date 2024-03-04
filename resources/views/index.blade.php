@@ -13,8 +13,8 @@
 <img src = "{{('logo.png')}}" class  =" ">
  </div>
       <ul class="nav__links">
-        <li class="link"><a href="login">Log In</a></li>
-        <li class="link"><a href="login" class="nav__btn">Sign Up</a></li>
+        <li class="link"><a href="/login">Log In</a></li>
+        <li class="link"><a href="/register" class="nav__btn">Sign Up</a></li>
       </ul>
     </nav>
     <section class="container">
@@ -26,7 +26,7 @@
         </h1>
         <p>
         Experience the power of T-Sync,
-         a robust Project Management System designed to meet the demands of efficient task management, 
+         a robust Project Management System designed to meet the demands of efficient task management,
          seamless communication, and collaborative teamwork.
         </p>
 </div>
